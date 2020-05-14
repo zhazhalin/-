@@ -1,0 +1,8 @@
+#include <stdio.h>
+int Addxy(int i,int j){
+return x+y;
+}
+public void main(){
+  int sum=Addxy(3,5);
+  printf("%d",sum);
+}
